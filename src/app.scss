@@ -1,5 +1,13 @@
 body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   padding: 0;
   background: #797174;
+}
+
+.main {
+  width: 100%;
+  max-width: 980px;
+  margin: 20px auto 80px;
+  padding: 0 10px;
 }
